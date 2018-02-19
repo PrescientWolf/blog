@@ -3,6 +3,7 @@
 * Equipping the right people, with the right information at the right time.
 
 ## Rules of Thumb
+* Know the enemy
 * No jerks, no whiners, no peacocks. 
 * NSTR is OK. Don't create something from nothing. Don't be afraid to say 'I don't know' or 'it's not there.' 
 * TL;DR in intelligence is the BLUF, not the bluff. 
@@ -24,4 +25,18 @@
 * TORtilla 
 * PARC Analysis of Competing Hypotheses (ACH)
 
-## Structured Analytic Techniques
+## Threatscapes
+
+
+## Threat Actor Cards
+* FancyBear (alt. ID... Sednit, APT28, Sofacy, Tsar Team)
+  ** Known Ops
+  ** x-agent, sourface, oldbait, operation pawn storm, EVILTOSS, coreshell, chopstick, carberp (tentative)
+  
+* CozyBear (alt. ID... APT29, CozyDuke, CozyCar, RUBIDIUM, Office Monkeys, CosmicDuke, GeminiDuke, OnionDuke, PinchDuke, Tiny Baron, DIONIS, Cake Duke, SeaDuke, HammerDuke)
+  ** Known Ops
+  ** HAMMERTOSS, Seadaddy
+  
+* EnergeticBear (alt. ID... Crouching Yeti, Dragonfly, Havex, Quedagh)
+  ** Known Ops
+  ** Sandworm, BlackEnergy 
