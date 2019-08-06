@@ -5,7 +5,7 @@ The question is, what will you CHOOSE?  
 
 
 ## Content (I've created...)
-* Blogs 
+* Blogs (https://medium.com/@graham.westbrook)
 * Screen-plays (scripts, treatments)
 * Whitepapers 
 * Formal reports (e.g. metrics)
