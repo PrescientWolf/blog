@@ -1,2 +1,2 @@
 # blog
-blog repo
+An updated list of created works and experience. 
