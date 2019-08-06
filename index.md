@@ -1,22 +1,38 @@
-# For Cyber Threat Intelligence Program Builds
+# Decision Intelligence
 ## Mission
-* Equipping the right people, with the right information at the right time.
+* Inspire leaders and decision-makers around the world to be honest about their mental assumptions, learn how to make sense of new/old information and apply useful techniques to their decision-making processes.The idea of making better decisions is not new. Everyone makes decisions, either explicitly or implicitly. But it is increasingly a topic of interest because of how many psychological and technological advances have been made in recent years (e.g. fMRI, ML, etc.) and how those same advancements can improve human ability to improve outcomes. For almost anyone willing to listen and learn, decisions can improve not only in type but in frequency. Even if outcomes do not happen as planned, good decisions increase the likelihood of them happening. 
+The question is, what will you CHOOSE?  
 
-## Rules of Thumb
-* Know the enemy
-* No jerks, no whiners, no peacocks. 
-* NSTR is OK. Don't create something from nothing. Don't be afraid to say 'I don't know' or 'it's not there.' 
-* TL;DR in intelligence is the BLUF, not the bluff. 
-* Omit needless words. (e.g. "due to the fact that," "problematic," "very").
-* Use active voice.
-* Clarity of expression + command of the subject matter = confidence.
-* Aim small, miss small. Scope properly.
-* Make sure intelligence is Complete Accurate Relevant & Timely (CART). This is actionable, high-impact intelligence. Clarify, don't add noise. 
-* Be brief, be bright, be gone.
-* In report writing, know your audience. For some, turn tradecraft knowledge into a story. For others, bulleted BLUF with ability to drill-down.
-* Smooth seas don't skillful sailors make. 
+
+## Content (I've created...)
+* Blogs 
+* Screen-plays (scripts, treatments)
+* Whitepapers 
+* Formal reports (e.g. metrics)
+* Email subscriptions
+* Websites
+* Channels
+* Novels
+* Marketing strategies and materials
+* Webinars
+* Conference powerpoints
+* Monster URLs
+* Infographics/Listicles
 
 ## Tooling
+* Jira
+* Drupal
+* Trello
+* Slack
+* G-Suite (+plugins)
+* Tableau
+* Adobe Creative Suite (PS, Illustrator)
+* Canva
+* Amazon Cloud
+* Mailchimp
+* Zoom
+* LucidChart
+* Office Suite
 * Burp Suite, SQLmap plugin
 * DNSTwist
 * Maltego
@@ -25,18 +41,3 @@
 * TORtilla 
 * PARC Analysis of Competing Hypotheses (ACH)
 
-## Threatscapes
-
-
-## Threat Actor Cards
-* FancyBear (alt. ID... Sednit, APT28, Sofacy, Tsar Team)
-  ** Known Ops
-  ** x-agent, sourface, oldbait, operation pawn storm, EVILTOSS, coreshell, chopstick, carberp (tentative)
-  
-* CozyBear (alt. ID... APT29, CozyDuke, CozyCar, RUBIDIUM, Office Monkeys, CosmicDuke, GeminiDuke, OnionDuke, PinchDuke, Tiny Baron, DIONIS, Cake Duke, SeaDuke, HammerDuke)
-  ** Known Ops
-  ** HAMMERTOSS, Seadaddy
-  
-* EnergeticBear (alt. ID... Crouching Yeti, Dragonfly, Havex, Quedagh)
-  ** Known Ops
-  ** Sandworm, BlackEnergy 
